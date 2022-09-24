@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App img {
+  width: 400px;
+}
