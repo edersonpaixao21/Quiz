@@ -10,7 +10,7 @@
 
 O projeto tem como objetivo um jogo de resposta certa ou errada sobre HTML, CSS E JavaScript.
 
-
+ 
 ## Preview
 Interface do usuário.
 </br>
